@@ -1,3 +1,7 @@
 lines are to be added
 
 i want to check the stash command
+
+it is interesting to learn new things
+
+let me see how stash command works
